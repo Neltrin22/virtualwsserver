@@ -1,0 +1,6 @@
+com\udea\vitualws\WebSocketConfig.class
+com\udea\vitualws\VitualwsApplication.class
+com\udea\vitualws\GateInfo.class
+com\udea\vitualws\FlightStatus.class
+com\udea\vitualws\FlightStatusController.class
+com\udea\vitualws\GateController.class
